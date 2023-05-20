@@ -1,0 +1,36 @@
+#em
+{
+font-style: italic;
+}
+
+.bullet
+{
+ list-style-type:none;
+}
+.bold
+{
+font-weight:bold;
+}
+
+
+.bigborder
+{
+border:solid;
+border-width:.01px;
+border-color: gray;
+padding:.1px 10px 10px 10px;
+margin-right:298px;
+margin-top:.1px;
+box-shadow:8px 8px rgba(0, 0, 0, .1);
+width:300px;
+}
+.littleborder
+{
+border:solid;
+border-width:.01px;
+border-color: gray;
+padding:10px;
+margin-right:1px;
+margin-top:8px;
+}
+
